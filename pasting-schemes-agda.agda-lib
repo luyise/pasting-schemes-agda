@@ -1,0 +1,4 @@
+name: pasting-schemes-agda
+include: src
+depend: agda-unimath, standard-library-2.0
+flags: --without-K -WnoWithoutKFlagPrimEraseEquality --rewriting
